@@ -1,0 +1,784 @@
+<!DOCTYPE html>
+<html lang="ja" data-admin-domain="//blog.hatena.ne.jp" data-admin-origin="https://blog.hatena.ne.jp" data-author="hotpepper-gourmet" data-avail-langs="ja en" data-blog="hotpepper-news.hatenablog-oem.com" data-blog-host="hotpepper-news.hatenablog-oem.com" data-blog-is-public="1" data-blog-name="メシ通 | ホットペッパーグルメ" data-blog-owner="hotpepper-gourmet" data-blog-uri="https://www.hotpepper.jp/mesitsu/" data-blog-uuid="8454420450066731383" data-blogs-uri-base="https://www.hotpepper.jp/mesitsu" data-brand="hotpepper" data-data-layer='{"hatenablog":{"permalink_entry":null,"page_id":"index","pro":"pro","router_type":"blogs","blog":{"uri":"https://www.hotpepper.jp/mesitsu/","enable_keyword_link":"false","entry_show_footer_related_entries":"false","disable_ads":"brand","is_public":"true","name":"\u30e1\u30b7\u901a | \u30db\u30c3\u30c8\u30da\u30c3\u30d1\u30fc\u30b0\u30eb\u30e1","is_sleeping":"false","is_responsive_view":"false","content_seems_japanese":"true","enable_ads":"false","owner_name":"hotpepper-gourmet","force_pc_view":"false","lang":"ja"},"admin":{},"analytics":{"separated_property_id":"UA-29716941-21","brand_property_id":"UA-69076420-4","property_id":"UA-66669720-1","non_sampling_property_id":""},"brand":"hotpepper"}}' data-device="pc" data-dont-recommend-pro="false" data-global-domain="https://hatenablog.com" data-globalheader-color="b" data-globalheader-type="pc" data-has-touch-view="1" data-help-url="https://help.hatenablog.com" data-page="index" data-parts-domain="https://hatenablog-parts.com" data-plus-available="1" data-pro="true" data-router-type="blogs" data-sentry-dsn="https://03a33e4781a24cf2885099fed222b56d@sentry.io/1195218" data-sentry-environment="production" data-sentry-sample-rate="0.1" data-static-domain="https://cdn.blog.st-hatena.com" data-version="7c0dbae064722850b13c226d6cf4075b" itemscope itemtype="http://schema.org/Blog" data-initial-state="{}">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<meta name="robots" content="max-image-preview:large">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=7; IE=9; IE=10; IE=11">
+<title>メシ通 | ホットペッパーグルメ</title>
+<link rel="canonical" href="https://www.hotpepper.jp/mesitsu/">
+<meta itemprop="name" content="メシ通 | ホットペッパーグルメ">
+<meta itemprop="image" content="https://cdn.user.blog.st-hatena.com/default_entry_og_image/106552153/1536563757358432">
+<meta property="og:title" content="メシ通 | ホットペッパーグルメ">
+<meta property="og:type" content="blog">
+<meta property="og:url" content="https://www.hotpepper.jp/mesitsu/">
+<meta property="og:image" content="https://cdn.image.st-hatena.com/image/scale/62fceeebd8cc1434e6c9d6e47ef69b3b4ee02654/backend=imager;enlarge=0;height=1000;version=1;width=1200/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F106552153%2F1536563757358432">
+<meta property="og:image:alt" content="メシ通 | ホットペッパーグルメ">
+<meta property="og:description" content="アタマとココロに、ごちそうを。">
+<meta property="og:site_name" content="メシ通 | ホットペッパーグルメ">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://cdn.user.blog.st-hatena.com/default_entry_og_image/106552153/1536563757358432">
+<meta name="twitter:title" content="メシ通 | ホットペッパーグルメ">
+<meta name="twitter:description" content="アタマとココロに、ごちそうを。">
+<meta name="twitter:app:name:iphone" content="はてなブログアプリ">
+<meta name="twitter:app:id:iphone" content="583299321">
+<meta name="twitter:app:url:iphone" content="hatenablog:///open?uri=https%3A%2F%2Fwww.hotpepper.jp%2Fmesitsu%2F">
+<meta name="twitter:site" content="@mesitsu">
+<meta name="google-site-verification" content="Xx0b7cM0EIOhVTfF-6Rat12I_FIgaGidh4meo-6u3ng">
+<script id="embed-gtm-data-layer-loader" data-data-layer-page-specific="">
+(function() {
+  function loadDataLayer(elem, attrName) {
+    if (!elem) { return {}; }
+    var json = elem.getAttribute(attrName);
+    if (!json) { return {}; }
+    return JSON.parse(json);
+  }
+
+  var globalVariables = loadDataLayer(
+    document.documentElement,
+    'data-data-layer'
+  );
+  var pageSpecificVariables = loadDataLayer(
+    document.getElementById('embed-gtm-data-layer-loader'),
+    'data-data-layer-page-specific'
+  );
+
+  var variables = [globalVariables, pageSpecificVariables];
+
+  if (!window.dataLayer) {
+    window.dataLayer = [];
+  }
+
+  for (var i = 0; i < variables.length; i++) {
+    window.dataLayer.push(variables[i]);
+  }
+})();
+</script><!-- Google Tag Manager --><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P4CXTW');</script><!-- End Google Tag Manager --><link rel="shortcut icon" href="https://www.hotpepper.jp/mesitsu/icon/favicon">
+<link rel="apple-touch-icon" href="https://www.hotpepper.jp/mesitsu/icon/touch">
+<link rel="icon" sizes="192x192" href="https://www.hotpepper.jp/mesitsu/icon/link">
+<link rel="alternate" type="application/atom+xml" title="Atom" href="https://www.hotpepper.jp/mesitsu/feed">
+<link rel="alternate" type="application/rss+xml" title="RSS2.0" href="https://www.hotpepper.jp/mesitsu/rss">
+<link rel="author" href="http://www.hatena.ne.jp/hotpepper-gourmet/">
+<link rel="stylesheet" type="text/css" href="https://cdn.blog.st-hatena.com/css/blog.css?version=9e7d70ffe7d9f177041462b006f3fc28745a04fa&amp;env=production">
+<link rel="stylesheet" type="text/css" href="https://usercss.blog.st-hatena.com/blog_style/8454420450066731383/764a751820280350f81c02ff92d0ce0704e3e16d">
+<script> </script><style>
+  div#google_afc_user,
+  div.google-afc-user-container,
+  div.google_afc_image,
+  div.google_afc_blocklink {
+      display: block !important;
+  }
+</style>
+<script type="application/ld+json">
+{
+	"@context": "http://schema.org",
+	"@type": "WebSite",
+	"url": "https://www.hotpepper.jp/mesitsu/",
+	"name": "メシ通",
+	"alternateName": "Mesitsu"
+}
+</script><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+<meta property="fb:pages" content="815250358541287">
+<script language="javascript">
+  (function () {
+    var _lgy     = document.createElement("script");
+    var _lgy_adv = 1428;
+    window._lgy_advs = window._lgy_advs || {};
+    window._lgy_advs[_lgy_adv] = false;
+    window._lgy_options = window._lgy_options || {};
+    window._lgy_options[_lgy_adv] = {};
+    _lgy.async = true;
+    _lgy.src = (("https:" == document.location.protocol) ? "https://" : "http://") + 'dsp.logly.co.jp/seg.js';
+    var _lgy0 = document.getElementsByTagName('script')[0];
+    _lgy0.parentNode.insertBefore(_lgy, _lgy0);
+  })();
+</script><!-- Global site tag (gtag.js) - Google Analytics --><script async src="https://www.googletagmanager.com/gtag/js?id=UA-185929460-2"></script><script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+    h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+    (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+  })(window,document.documentElement,'async-hide','dataLayer',4000,
+    {'CONTAINER_ID':true});
+  gtag("js", new Date());
+  window.hbmGaId = "UA-185929460-2";
+  gtag("config", "UA-185929460-2", {
+    optimize_id: "OPT-WNXK5DL",
+    send_page_view: false,
+    custom_map: { dimension1: "文字数" },
+  });
+  gtag('event', 'page_view', { 'send_to': 'UA-185929460-2' });
+</script>
+</head>
+<body class="page-index enable-top-editarea enable-bottom-editarea">
+    
+
+    <div id="globalheader-container" data-brand="hatenablog">
+  <iframe id="globalheader" height="37" frameborder="0" allowtransparency="true"></iframe>
+</div>
+
+
+    <div id="container">
+      <div id="container-inner">
+        <div id="top-editarea">
+    <header id="blog-title" data-brand="hotpepper"><div id="blog-title-inner">
+    <div class="header-left">
+      <h1 id="title">
+        <a href="https://www.hotpepper.jp/mesitsu/">
+          メシ通 Produced by RECRUIT
+        </a>
+      </h1>
+      <h2 class="tagline">アタマとココロに、ごちそうを。</h2>
+    </div>
+
+    <div class="header-right">
+      <ul class="header-social-buttons">
+<li><a href="https://b.hatena.ne.jp/entry/www.hotpepper.jp/mesitsu/" target="_blank"><img class="hatena-fotolife" src="https://cdn-ak.f.st-hatena.com/images/fotolife/h/hotpepper-gourmet/20150827/20150827202752.png" alt="ブクマする"></a></li>
+        <li><a href="https://twitter.com/mesitsu" target="_blank"><img class="hatena-fotolife" src="https://cdn-ak.f.st-hatena.com/images/fotolife/h/hotpepper-gourmet/20150827/20150827202807.png" alt="フォローする"></a></li>
+        <li><a href="https://www.facebook.com/mesitsu" target="_blank"><img class="hatena-fotolife" src="https://cdn-ak.f.st-hatena.com/images/fotolife/h/hotpepper-gourmet/20150827/20150827202828.png" alt="フォローする"></a></li>
+      </ul>
+</div>
+
+  </div>
+</header><nav id="globalheader"><ul>
+<li><a href="https://www.hotpepper.jp/mesitsu/area">エリア</a></li>
+  <li><a href="https://www.hotpepper.jp/mesitsu/food">料理ジャンル</a></li>
+  <li><a href="https://www.hotpepper.jp/mesitsu/article">記事ジャンル</a></li>
+  <li><a href="https://www.hotpepper.jp/mesitsu/reporter">リポーター</a></li>
+  <li><a href="https://www.hotpepper.jp/mesitsu/serial">連載</a></li>
+  <li class="last"><a href="https://www.hotpepper.jp/mesitsu/archive">記事一覧</a></li>
+ </ul></nav>
+</div>
+
+
+        
+          
+        
+        
+
+<div id="content" class="hfeed">
+  
+    <div id="header-modules">
+      
+        <div class="hatena-module hatena-module-recent-entries category-Pickup">
+  <div class="hatena-module-title">
+    <a href="https://www.hotpepper.jp/mesitsu/archive/category/Pickup">
+      メシ通おすすめ
+    </a>
+  </div>
+  <div class="hatena-module-body">
+    <ul class="recent-entries hatena-urllist urllist-with-thumbnails">
+<li class="urllist-item recent-entries-item">
+      <div class="urllist-item-inner recent-entries-item-inner">
+        
+                      <a class="urllist-image-link recent-entries-image-link" href="https://www.hotpepper.jp/mesitsu/entry/takehiko-sawaki/2020-00459">
+  <img alt="世界初の缶コーヒー「UCCミルクコーヒー」が50年以上愛される理由" src="https://cdn.image.st-hatena.com/image/square/4b4d24d27790604e23a9b41a1004be6c47cd47b2/backend=imagemagick;height=320;version=1;width=580/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fe%2Fexw_mesi%2F20210223%2F20210223164651.jpg" class="urllist-image recent-entries-image" title="世界初の缶コーヒー「UCCミルクコーヒー」が50年以上愛される理由" width="580"></a>
+
+          <a href="https://www.hotpepper.jp/mesitsu/entry/takehiko-sawaki/2020-00459" class="urllist-title-link recent-entries-title-link  urllist-title recent-entries-title">世界初の缶コーヒー「UCCミルクコーヒー」が50年以上愛される理由</a>
+
+
+          
+          
+
+                </div>
+    </li>
+  
+    
+    <li class="urllist-item recent-entries-item">
+      <div class="urllist-item-inner recent-entries-item-inner">
+        
+                      <a class="urllist-image-link recent-entries-image-link" href="https://www.hotpepper.jp/mesitsu/entry/sobattodan/2020-00455">
+  <img alt="名店の立ち食いそばの味を引き継ぎたかった常連客2人の話──仲宿・そば谷【東京ソバット団】" src="https://cdn.image.st-hatena.com/image/square/bfdbcd04d86a2356739951c527a493f107a3938c/backend=imagemagick;height=320;version=1;width=580/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmotohashitak%2F20201224%2F20201224182804.jpg" class="urllist-image recent-entries-image" title="名店の立ち食いそばの味を引き継ぎたかった常連客2人の話──仲宿・そば谷【東京ソバット団】" width="580"></a>
+
+          <a href="https://www.hotpepper.jp/mesitsu/entry/sobattodan/2020-00455" class="urllist-title-link recent-entries-title-link  urllist-title recent-entries-title">名店の立ち食いそばの味を引き継ぎたかった常連客2人の話──仲宿・そば谷【東京ソバット団】</a>
+
+
+          
+          
+
+                </div>
+    </li>
+  
+    
+    <li class="urllist-item recent-entries-item">
+      <div class="urllist-item-inner recent-entries-item-inner">
+        
+                      <a class="urllist-image-link recent-entries-image-link" href="https://www.hotpepper.jp/mesitsu/entry/daiki-hayakawa/2021-00481">
+  <img alt="“クラフトおつまみ”の定期便・オツマミーは、「家であまり飲まない人」こそ試してほしい" src="https://cdn.image.st-hatena.com/image/square/51d7695d69ebbb662faa2896e88b0a5199e88c14/backend=imagemagick;height=320;version=1;width=580/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkiiiro%2F20210223%2F20210223084851.jpg" class="urllist-image recent-entries-image" title="“クラフトおつまみ”の定期便・オツマミーは、「家であまり飲まない人」こそ試してほしい" width="580"></a>
+
+          <a href="https://www.hotpepper.jp/mesitsu/entry/daiki-hayakawa/2021-00481" class="urllist-title-link recent-entries-title-link  urllist-title recent-entries-title">“クラフトおつまみ”の定期便・オツマミーは、「家であまり飲まない人」こそ試してほしい</a>
+
+
+          
+          
+
+                </div>
+    </li>
+  
+    
+    <li class="urllist-item recent-entries-item">
+      <div class="urllist-item-inner recent-entries-item-inner">
+        
+                      <a class="urllist-image-link recent-entries-image-link" href="https://www.hotpepper.jp/mesitsu/entry/henmichieco/2021-00474">
+  <img alt="イケてない青春、イケてない今を味わっている人のための落語を──笑福亭羽光さんのアイデアの源泉は？【噺家の修行メシ】" src="https://cdn.image.st-hatena.com/image/square/9de04be3478e323f05143b663ae3567653eb2891/backend=imagemagick;height=320;version=1;width=580/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fh%2Fhenmichieco%2F20210128%2F20210128212408.jpg" class="urllist-image recent-entries-image" title="イケてない青春、イケてない今を味わっている人のための落語を──笑福亭羽光さんのアイデアの源泉は？【噺家の修行メシ】" width="580"></a>
+
+          <a href="https://www.hotpepper.jp/mesitsu/entry/henmichieco/2021-00474" class="urllist-title-link recent-entries-title-link  urllist-title recent-entries-title">イケてない青春、イケてない今を味わっている人のための落語を──笑福亭羽光さんのアイデアの源泉は？【噺家の修行メシ】</a>
+
+
+          
+          
+
+                </div>
+    </li>
+  
+    
+    <li class="urllist-item recent-entries-item">
+      <div class="urllist-item-inner recent-entries-item-inner">
+        
+                      <a class="urllist-image-link recent-entries-image-link" href="https://www.hotpepper.jp/mesitsu/entry/takehiko-sawaki/2020-00430">
+  <img alt="システムエンジニアから大食いタレントに転身したロシアン佐藤さんの「食」への思い" src="https://cdn.image.st-hatena.com/image/square/a34a3cdec04f36736807477f503b7e41c1e721fa/backend=imagemagick;height=320;version=1;width=580/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fe%2Fexw_mesi%2F20210208%2F20210208101841.jpg" class="urllist-image recent-entries-image" title="システムエンジニアから大食いタレントに転身したロシアン佐藤さんの「食」への思い" width="580"></a>
+
+          <a href="https://www.hotpepper.jp/mesitsu/entry/takehiko-sawaki/2020-00430" class="urllist-title-link recent-entries-title-link  urllist-title recent-entries-title">システムエンジニアから大食いタレントに転身したロシアン佐藤さんの「食」への思い</a>
+
+
+          
+          
+
+                </div>
+    </li>
+  
+    
+    <li class="urllist-item recent-entries-item">
+      <div class="urllist-item-inner recent-entries-item-inner">
+        
+                      <a class="urllist-image-link recent-entries-image-link" href="https://www.hotpepper.jp/mesitsu/entry/kemuta-otsubo/2020-00438">
+  <img alt="「どんな関係でもお酒は強制するもんじゃない」黒のカリスマ・蝶野正洋さんインタビュー【レスラーめし】" src="https://cdn.image.st-hatena.com/image/square/d1ca745d36c5ed5bf6c54d15f16729dc2dbfc555/backend=imagemagick;height=320;version=1;width=580/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fserviceanddestroy%2F20201208%2F20201208135648.jpg" class="urllist-image recent-entries-image" title="「どんな関係でもお酒は強制するもんじゃない」黒のカリスマ・蝶野正洋さんインタビュー【レスラーめし】" width="580"></a>
+
+          <a href="https://www.hotpepper.jp/mesitsu/entry/kemuta-otsubo/2020-00438" class="urllist-title-link recent-entries-title-link  urllist-title recent-entries-title">「どんな関係でもお酒は強制するもんじゃない」黒のカリスマ・蝶野正洋さんインタビュー【レスラーめし】</a>
+
+
+          
+          
+
+                </div>
+    </li>
+  
+    
+    <li class="urllist-item recent-entries-item">
+      <div class="urllist-item-inner recent-entries-item-inner">
+        
+                      <a class="urllist-image-link recent-entries-image-link" href="https://www.hotpepper.jp/mesitsu/entry/michae-sanol/2021-00471">
+  <img alt="イカ料理との相性を追求した日本酒「いか純米」は若き蔵人の思いが詰まっていた" src="https://cdn.image.st-hatena.com/image/square/68499373aeb3de836799c92ad09ba938eadf99f8/backend=imagemagick;height=320;version=1;width=580/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmaicos555%2F20210219%2F20210219173557.jpg" class="urllist-image recent-entries-image" title="イカ料理との相性を追求した日本酒「いか純米」は若き蔵人の思いが詰まっていた" width="580"></a>
+
+          <a href="https://www.hotpepper.jp/mesitsu/entry/michae-sanol/2021-00471" class="urllist-title-link recent-entries-title-link  urllist-title recent-entries-title">イカ料理との相性を追求した日本酒「いか純米」は若き蔵人の思いが詰まっていた</a>
+
+
+          
+          
+
+                </div>
+    </li>
+  
+    
+    <li class="urllist-item recent-entries-item">
+      <div class="urllist-item-inner recent-entries-item-inner">
+        
+                      <a class="urllist-image-link recent-entries-image-link" href="https://www.hotpepper.jp/mesitsu/entry/shachikugohan/2021-00465">
+  <img alt="筋トレ民向け減量食「沼」を作る間に、同じカロリーを運動で消費して食べてみた結果→美味しすぎないことの重要性に気付く" src="https://cdn.image.st-hatena.com/image/square/7fcc001007a2cf0e0854c737df11c5e496917ef5/backend=imagemagick;height=320;version=1;width=580/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FM%2FMeshi2_IB%2F20210209%2F20210209164649.jpg" class="urllist-image recent-entries-image" title="筋トレ民向け減量食「沼」を作る間に、同じカロリーを運動で消費して食べてみた結果→美味しすぎないことの重要性に気付く" width="580"></a>
+
+          <a href="https://www.hotpepper.jp/mesitsu/entry/shachikugohan/2021-00465" class="urllist-title-link recent-entries-title-link  urllist-title recent-entries-title">筋トレ民向け減量食「沼」を作る間に、同じカロリーを運動で消費して食べてみた結果→美味しすぎないことの重要性に気付く</a>
+
+
+          
+          
+
+                </div>
+    </li>
+  
+    
+    <li class="urllist-item recent-entries-item">
+      <div class="urllist-item-inner recent-entries-item-inner">
+        
+                      <a class="urllist-image-link recent-entries-image-link" href="https://www.hotpepper.jp/mesitsu/entry/hiro-watanabe/2020-00434">
+  <img alt=" 平成から令和の「食ブーム」について考えてみる──日本人は何を食べてきたのか?　" src="https://cdn.image.st-hatena.com/image/square/ddda4eb1c233d0aaff004f82a2959c27aa96a98c/backend=imagemagick;height=320;version=1;width=580/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fh%2Fhiro81p%2F20201210%2F20201210123101.jpg" class="urllist-image recent-entries-image" title=" 平成から令和の「食ブーム」について考えてみる──日本人は何を食べてきたのか?　" width="580"></a>
+
+          <a href="https://www.hotpepper.jp/mesitsu/entry/hiro-watanabe/2020-00434" class="urllist-title-link recent-entries-title-link  urllist-title recent-entries-title"> 平成から令和の「食ブーム」について考えてみる──日本人は何を食べてきたのか?　</a>
+
+
+          
+          
+
+                </div>
+    </li>
+  
+    
+    <li class="urllist-item recent-entries-item">
+      <div class="urllist-item-inner recent-entries-item-inner">
+        
+                      <a class="urllist-image-link recent-entries-image-link" href="https://www.hotpepper.jp/mesitsu/entry/kagezou-mesiya/2021-00477">
+  <img alt="鯛の切り身で塩焼き→骨酒→煮付け→〆飯の「なんちゃって鯛づくし」で決めた！" src="https://cdn.image.st-hatena.com/image/square/83a7500aa30c0eaff18c0a6bbf3f4492861ab6e5/backend=imagemagick;height=320;version=1;width=580/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkagezou268%2F20210224%2F20210224141438.jpg" class="urllist-image recent-entries-image" title="鯛の切り身で塩焼き→骨酒→煮付け→〆飯の「なんちゃって鯛づくし」で決めた！" width="580"></a>
+
+          <a href="https://www.hotpepper.jp/mesitsu/entry/kagezou-mesiya/2021-00477" class="urllist-title-link recent-entries-title-link  urllist-title recent-entries-title">鯛の切り身で塩焼き→骨酒→煮付け→〆飯の「なんちゃって鯛づくし」で決めた！</a>
+
+
+          
+          
+
+                </div>
+    </li>
+  
+</ul>
+</div>
+</div>
+
+      
+    </div>
+  
+  <div id="content-inner">
+    <div id="wrapper">
+      <div id="main">
+        <div id="main-inner">
+          
+            <div class="hatena-module hatena-module-recent-entries ">
+  <div class="hatena-module-title">
+    <a href="https://www.hotpepper.jp/mesitsu/archive">
+      新着記事
+    </a>
+  </div>
+  <div class="hatena-module-body">
+    <ul class="recent-entries hatena-urllist urllist-with-thumbnails">
+<li class="urllist-item recent-entries-item">
+      <div class="urllist-item-inner recent-entries-item-inner">
+        
+                      <a class="urllist-image-link recent-entries-image-link" href="https://www.hotpepper.jp/mesitsu/entry/yasunario/2021-00319">
+  <img alt="「チーズちくわ丼」というパーフェクトズボラメシをワシワシかきこみたい【ヤスナリオ】" src="https://cdn.image.st-hatena.com/image/square/bfac1964ff11c024a0f4cd94abd44dd0d596d315/backend=imagemagick;height=140;version=1;width=140/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyasunario%2F20210401%2F20210401102652.jpg" class="urllist-image recent-entries-image" title="「チーズちくわ丼」というパーフェクトズボラメシをワシワシかきこみたい【ヤスナリオ】" width="140"></a>
+
+          <a href="https://www.hotpepper.jp/mesitsu/entry/yasunario/2021-00319" class="urllist-title-link recent-entries-title-link  urllist-title recent-entries-title">「チーズちくわ丼」というパーフェクトズボラメシをワシワシかきこみたい【ヤスナリオ】</a>
+
+
+          
+          
+
+                      <div class="urllist-entry-body recent-entries-entry-body">こんにちは、高円寺メタルめしのヤスナリオです。 今回ご紹介するのは、年度始めの忙しい時期にオススメの時短メシ「チーズちくわ丼」です。 たまた…</div>
+      </div>
+    </li>
+  
+    
+    <li class="urllist-item recent-entries-item">
+      <div class="urllist-item-inner recent-entries-item-inner">
+        
+                      <a class="urllist-image-link recent-entries-image-link" href="https://www.hotpepper.jp/mesitsu/entry/takehiko-sawaki/2020-00459">
+  <img alt="世界初の缶コーヒー「UCCミルクコーヒー」が50年以上愛される理由" src="https://cdn.image.st-hatena.com/image/square/793ee9229a488d2bc806ddfc24e82d1965c2ef45/backend=imagemagick;height=140;version=1;width=140/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fe%2Fexw_mesi%2F20210223%2F20210223164651.jpg" class="urllist-image recent-entries-image" title="世界初の缶コーヒー「UCCミルクコーヒー」が50年以上愛される理由" width="140"></a>
+
+          <a href="https://www.hotpepper.jp/mesitsu/entry/takehiko-sawaki/2020-00459" class="urllist-title-link recent-entries-title-link  urllist-title recent-entries-title">世界初の缶コーヒー「UCCミルクコーヒー」が50年以上愛される理由</a>
+
+
+          
+          
+
+                      <div class="urllist-entry-body recent-entries-entry-body">世界初の缶コーヒーとして1969年に誕生した「UCCミルクコーヒー」。発売当時から現在まで、このロングセラー商品を愛飲し続けるライターが、なぜUCC…</div>
+      </div>
+    </li>
+  
+    
+    <li class="urllist-item recent-entries-item">
+      <div class="urllist-item-inner recent-entries-item-inner">
+        
+                      <a class="urllist-image-link recent-entries-image-link" href="https://www.hotpepper.jp/mesitsu/entry/sakanaya-sandaime/2021-00318">
+  <img alt="スーパーの刺身切り落としセットとナムルを合体「刺身ビビンバ丼」にしたらウマすぎた【魚屋三代目】" src="https://cdn.image.st-hatena.com/image/square/6fb8b012a6e05af957c6115c7531fb12728787e1/backend=imagemagick;height=140;version=1;width=140/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsakanaya-sandaime%2F20210330%2F20210330142900.jpg" class="urllist-image recent-entries-image" title="スーパーの刺身切り落としセットとナムルを合体「刺身ビビンバ丼」にしたらウマすぎた【魚屋三代目】" width="140"></a>
+
+          <a href="https://www.hotpepper.jp/mesitsu/entry/sakanaya-sandaime/2021-00318" class="urllist-title-link recent-entries-title-link  urllist-title recent-entries-title">スーパーの刺身切り落としセットとナムルを合体「刺身ビビンバ丼」にしたらウマすぎた【魚屋三代目】</a>
+
+
+          
+          
+
+                      <div class="urllist-entry-body recent-entries-entry-body">こんにちは！ 鮮魚魚武の三代目、料理家の魚屋三代目です。 スーパーなどで「お買い得」なんてシールが貼られた刺身切り落としセット。彩りもよく、…</div>
+      </div>
+    </li>
+  
+    
+    <li class="urllist-item recent-entries-item">
+      <div class="urllist-item-inner recent-entries-item-inner">
+        
+                      <a class="urllist-image-link recent-entries-image-link" href="https://www.hotpepper.jp/mesitsu/entry/sobattodan/2020-00455">
+  <img alt="名店の立ち食いそばの味を引き継ぎたかった常連客2人の話──仲宿・そば谷【東京ソバット団】" src="https://cdn.image.st-hatena.com/image/square/07370de6d7c5987b0910fb69dd54fa22b8a4e2ca/backend=imagemagick;height=140;version=1;width=140/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmotohashitak%2F20201224%2F20201224182804.jpg" class="urllist-image recent-entries-image" title="名店の立ち食いそばの味を引き継ぎたかった常連客2人の話──仲宿・そば谷【東京ソバット団】" width="140"></a>
+
+          <a href="https://www.hotpepper.jp/mesitsu/entry/sobattodan/2020-00455" class="urllist-title-link recent-entries-title-link  urllist-title recent-entries-title">名店の立ち食いそばの味を引き継ぎたかった常連客2人の話──仲宿・そば谷【東京ソバット団】</a>
+
+
+          
+          
+
+                      <div class="urllist-entry-body recent-entries-entry-body">「そば谷」は、東十条で営業していた立ち食いそばの名店。その東十条の「そば谷」の店名と味を受け継ぎ、2020年2月にオープンしたのが、この仲宿の「…</div>
+      </div>
+    </li>
+  
+    
+    <li class="urllist-item recent-entries-item">
+      <div class="urllist-item-inner recent-entries-item-inner">
+        
+                      <a class="urllist-image-link recent-entries-image-link" href="https://www.hotpepper.jp/mesitsu/entry/y-ricopin/2021-00317">
+  <img alt="オイスターソース入りシビ辛豚キムチの「花椒豚キムチ丼」は箸がどんどんすすむ【山本リコピン】" src="https://cdn.image.st-hatena.com/image/square/e149d360d0dced617a0486949369500971487e7e/backend=imagemagick;height=140;version=1;width=140/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fy-ricopin%2F20210330%2F20210330133813.jpg" class="urllist-image recent-entries-image" title="オイスターソース入りシビ辛豚キムチの「花椒豚キムチ丼」は箸がどんどんすすむ【山本リコピン】" width="140"></a>
+
+          <a href="https://www.hotpepper.jp/mesitsu/entry/y-ricopin/2021-00317" class="urllist-title-link recent-entries-title-link  urllist-title recent-entries-title">オイスターソース入りシビ辛豚キムチの「花椒豚キムチ丼」は箸がどんどんすすむ【山本リコピン】</a>
+
+
+          
+          
+
+                      <div class="urllist-entry-body recent-entries-entry-body">こんにちは、料理ブロガーの山本リコピンです。 ピリッと舌がしびれるような辛さが特徴の香辛料、中国産山椒の花椒。この花椒と、唐辛子の辛味を合わ…</div>
+      </div>
+    </li>
+  
+    
+    <li class="urllist-item recent-entries-item">
+      <div class="urllist-item-inner recent-entries-item-inner">
+        
+                      <a class="urllist-image-link recent-entries-image-link" href="https://www.hotpepper.jp/mesitsu/entry/daiki-hayakawa/2021-00481">
+  <img alt="“クラフトおつまみ”の定期便・オツマミーは、「家であまり飲まない人」こそ試してほしい" src="https://cdn.image.st-hatena.com/image/square/8ee73121c1695f3a6f98f4d46c3ba461c756089b/backend=imagemagick;height=140;version=1;width=140/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkiiiro%2F20210223%2F20210223084851.jpg" class="urllist-image recent-entries-image" title="“クラフトおつまみ”の定期便・オツマミーは、「家であまり飲まない人」こそ試してほしい" width="140"></a>
+
+          <a href="https://www.hotpepper.jp/mesitsu/entry/daiki-hayakawa/2021-00481" class="urllist-title-link recent-entries-title-link  urllist-title recent-entries-title">“クラフトおつまみ”の定期便・オツマミーは、「家であまり飲まない人」こそ試してほしい</a>
+
+
+          
+          
+
+                      <div class="urllist-entry-body recent-entries-entry-body">“クラフトおつまみ”の定期便「otuma.me（オツマミー）」。一体どんなおつまみが届くの？ コスパはいいの？ 「家ではあまりお酒を飲まない」という、…</div>
+      </div>
+    </li>
+  
+    
+    <li class="urllist-item recent-entries-item">
+      <div class="urllist-item-inner recent-entries-item-inner">
+        
+                      <a class="urllist-image-link recent-entries-image-link" href="https://www.hotpepper.jp/mesitsu/entry/kinniku/2021-00316">
+  <img alt="1食で野菜400g美味しく食べられる。筋肉料理人の「麺なしちゃんぽん」をデフォにしたい" src="https://cdn.image.st-hatena.com/image/square/eff3644235ab5508773c75f8bda4bc28283bb47f/backend=imagemagick;height=140;version=1;width=140/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkinniku39%2F20210329%2F20210329120042.jpg" class="urllist-image recent-entries-image" title="1食で野菜400g美味しく食べられる。筋肉料理人の「麺なしちゃんぽん」をデフォにしたい" width="140"></a>
+
+          <a href="https://www.hotpepper.jp/mesitsu/entry/kinniku/2021-00316" class="urllist-title-link recent-entries-title-link  urllist-title recent-entries-title">1食で野菜400g美味しく食べられる。筋肉料理人の「麺なしちゃんぽん」をデフォにしたい</a>
+
+
+          
+          
+
+                      <div class="urllist-entry-body recent-entries-entry-body">こんにちは～筋肉料理人です！ 長崎のソウルフード「ちゃんぽん」ですが、私的にちゃんぽんは麺料理というよりは、野菜を美味しく食べることがメイン…</div>
+      </div>
+    </li>
+  
+    
+    <li class="urllist-item recent-entries-item">
+      <div class="urllist-item-inner recent-entries-item-inner">
+        
+                      <a class="urllist-image-link recent-entries-image-link" href="https://www.hotpepper.jp/mesitsu/entry/homarecipe/21-00006">
+  <img alt="意外と簡単にできる苺と牛乳のスイーツ「いちご牛乳寒天」" src="https://cdn.image.st-hatena.com/image/square/9991a343aa5934bfc88a477081b9b265770e405f/backend=imagemagick;height=140;version=1;width=140/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fh%2Fhomare-temujin%2F20210227%2F20210227130851.jpg" class="urllist-image recent-entries-image" title="意外と簡単にできる苺と牛乳のスイーツ「いちご牛乳寒天」" width="140"></a>
+
+          <a href="https://www.hotpepper.jp/mesitsu/entry/homarecipe/21-00006" class="urllist-title-link recent-entries-title-link  urllist-title recent-entries-title">意外と簡単にできる苺と牛乳のスイーツ「いちご牛乳寒天」</a>
+
+
+          
+          
+
+                      <div class="urllist-entry-body recent-entries-entry-body">こんにちは、野菜農家のホマレ姉さんです。 実は、姉さんは子供の頃、牛乳が大の苦手だったんです。給食の時間が苦痛で、苦痛でしょうがなかったくら…</div>
+      </div>
+    </li>
+  
+    
+    <li class="urllist-item recent-entries-item">
+      <div class="urllist-item-inner recent-entries-item-inner">
+        
+                      <a class="urllist-image-link recent-entries-image-link" href="https://www.hotpepper.jp/mesitsu/entry/kanakitajima/2021-00315">
+  <img alt="きのこ、めんつゆ、バターで旨味重ねすぎ。電子レンジ5分「ツナ缶ときのこのかさ増しスパゲッティ」【北嶋佳奈】" src="https://cdn.image.st-hatena.com/image/square/103953e2f08e89c26c8e72a7a09a3f37af4d7121/backend=imagemagick;height=140;version=1;width=140/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkanagohan%2F20210329%2F20210329112214.jpg" class="urllist-image recent-entries-image" title="きのこ、めんつゆ、バターで旨味重ねすぎ。電子レンジ5分「ツナ缶ときのこのかさ増しスパゲッティ」【北嶋佳奈】" width="140"></a>
+
+          <a href="https://www.hotpepper.jp/mesitsu/entry/kanakitajima/2021-00315" class="urllist-title-link recent-entries-title-link  urllist-title recent-entries-title">きのこ、めんつゆ、バターで旨味重ねすぎ。電子レンジ5分「ツナ缶ときのこのかさ増しスパゲッティ」【北嶋佳奈】</a>
+
+
+          
+          
+
+                      <div class="urllist-entry-body recent-entries-entry-body">こんにちは！ 管理栄養士の北嶋佳奈です。 今日は、家パスタのバリエーション強化にぴったり、常備しているツナ缶を使って、電子レンジでサクッとで…</div>
+      </div>
+    </li>
+  
+    
+    <li class="urllist-item recent-entries-item">
+      <div class="urllist-item-inner recent-entries-item-inner">
+        
+                      <a class="urllist-image-link recent-entries-image-link" href="https://www.hotpepper.jp/mesitsu/entry/balinekoyuki/2021-00312">
+  <img alt="スパイスとピーナッツの香りでビールもごはんも進む フライパンで「鶏もも肉のスパイスねぎま丼」がバリのサテっぽくできた【バリ猫ゆっきー】" src="https://cdn.image.st-hatena.com/image/square/80d0710ac9e098f6799242433bc34005e24e6be7/backend=imagemagick;height=140;version=1;width=140/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fb%2Fbalinekoyuki%2F20210322%2F20210322133016.jpg" class="urllist-image recent-entries-image" title="スパイスとピーナッツの香りでビールもごはんも進む フライパンで「鶏もも肉のスパイスねぎま丼」がバリのサテっぽくできた【バリ猫ゆっきー】" width="140"></a>
+
+          <a href="https://www.hotpepper.jp/mesitsu/entry/balinekoyuki/2021-00312" class="urllist-title-link recent-entries-title-link  urllist-title recent-entries-title">スパイスとピーナッツの香りでビールもごはんも進む フライパンで「鶏もも肉のスパイスねぎま丼」がバリのサテっぽくできた【バリ猫ゆっきー】</a>
+
+
+          
+          
+
+                      <div class="urllist-entry-body recent-entries-entry-body">こんにちは！ スパイスコーディネーターマスターのバリ猫ゆっきーです。 スパイスの効いた、ご飯もビールもはかどる肉料理を食べたいなと考えていて…</div>
+      </div>
+    </li>
+  
+</ul>
+</div>
+</div>
+
+          
+            
+<div class="hatena-module hatena-module-html">
+  <div class="hatena-module-body">
+    <a href="./archive" class="btn">もっと読む</a>
+  </div>
+</div>
+
+          
+            
+<div class="hatena-module hatena-module-html">
+    <div class="hatena-module-title">おすすめ記事</div>
+  <div class="hatena-module-body">
+    <div id="logly-lift-4177722"></div>
+<script charset="UTF-8">
+  (function(){
+    var _lgy_lw = document.createElement("script");
+    _lgy_lw.type = "text/javascript";
+    _lgy_lw.charset = "UTF-8";
+    _lgy_lw.async = true;
+    _lgy_lw.src= (("https:" == document.location.protocol) ? "https://" : "http://")+"l.logly.co.jp/lift_widget.js?adspot_id=4177722";
+    var _lgy_lw_0 = document.getElementsByTagName("script")[0];
+    _lgy_lw_0.parentNode.insertBefore(_lgy_lw, _lgy_lw_0);
+  })();
+</script>
+</div>
+</div>
+
+          
+
+        </div>
+      </div>
+
+      <aside id="box1"><div id="box1-inner">
+  </div>
+</aside>
+</div>
+<!-- #wrapper -->
+
+    
+<aside id="box2"><div id="box2-inner">
+    
+      <div class="hatena-module hatena-module-search-box">
+  <div class="hatena-module-title">
+    検索
+  </div>
+  <div class="hatena-module-body">
+    <form class="search-form" role="search" action="https://www.hotpepper.jp/mesitsu/search" method="get">
+  <input type="text" name="q" class="search-module-input" value="" placeholder="記事を検索" required><input type="submit" value="検索" class="search-module-button">
+</form>
+
+  </div>
+</div>
+
+    
+      
+<div class="hatena-module hatena-module-entries-access-ranking" data-count="10" data-source="access" data-enable_customize_format="0" data-display_entry_category="0" data-display_entry_image="1" data-display_entry_image_size_width="100" data-display_entry_image_size_height="100" data-display_entry_body_length="0" data-display_entry_date="0" data-display_entry_title_length="20" data-restrict_entry_title_length="0" data-display_bookmark_count="1">
+  <div class="hatena-module-title">
+    
+      話題の記事
+    
+  </div>
+  <div class="hatena-module-body">
+    
+  </div>
+</div>
+
+    
+      
+<div class="hatena-module hatena-module-html">
+    <div class="hatena-module-title">Twitter</div>
+  <div class="hatena-module-body">
+    <a class="twitter-timeline" data-height="700" data-theme="light" href="https://twitter.com/mesitsu?ref_src=twsrc%5Etfw">Tweets by mesitsu</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+</div>
+
+    
+      
+<div class="hatena-module hatena-module-html">
+    <div class="hatena-module-title">Facebook</div>
+  <div class="hatena-module-body">
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script><div class="fb-page" data-href="https://www.facebook.com/mesitsu" data-width="286" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"></div>
+  </div>
+</div>
+
+    
+      
+<div class="hatena-module hatena-module-html">
+  <div class="hatena-module-body">
+    <p style="text-align:center;"><a href="https://www.hotpepper.jp/mesitsu/archive/category/%E6%9C%88%E9%96%93%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0"><img class="hatena-fotolife" src="https://cdn-ak.f.st-hatena.com/images/fotolife/h/hotpepper-gourmet/20180420/20180420113413.jpg" alt="月間ランキング"></a></p>
+  </div>
+</div>
+
+    
+    
+  </div>
+</aside>
+</div>
+</div>
+
+
+        
+
+        
+  <div id="bottom-editarea">
+    <script class="archive-category-navigation" type="text/x-underscore-template" data-category-name="神戸">
+  <div class="special">
+    <h3>神戸の記事一覧です</h3>
+    <p>
+      神戸の美味しい情報を盛り沢山でお届けします！！
+    </p>
+  </div>
+</script><script src="https://code.jquery.com/jquery-1.10.1.min.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script><script>
+$(document).ready(function() {
+  var pagetop = $('.pagetop');
+    $(window).scroll(function () {
+       if ($(this).scrollTop() > 100) {
+            pagetop.fadeIn();
+       } else {
+            pagetop.fadeOut();
+            }
+       });
+       pagetop.click(function () {
+           $('body, html').animate({ scrollTop: 0 }, 500);
+              return false;
+   });
+});
+</script><div class="pagetop scroll-top-wrapper">
+   <a href="#container"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/h/hotpepper-gourmet/20160202/20160202155927.png" alt="トップに戻る" width="72px" height="72px"></a>
+</div>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script><script>
+jQuery(function(){
+    jQuery(function() {
+        // categoryのarchiveページでカテゴリに特化したコンテンツを出す機能
+        // class="archive-category-navigation" type="text/x-underscore-template" data-category-name="(カテゴリ名)" という条件にマッチするscriptの中身が#top-boxに出る
+        if( document.documentElement.getAttribute('data-page') !== 'archive' ) { return; }
+
+        var categoryMatched = document.body.className.match(/category-(\S+)/);
+        if (!categoryMatched) return;
+        var categoryName = categoryMatched[1];
+
+        var $template = $('script.archive-category-navigation[type="text/x-underscore-template"][data-category-name="' + categoryName + '"]');
+        if (!$template.length) return;
+        $('#top-box').append($template.html());
+    });
+});
+</script><footer id="footer" data-brand="hotpepper"><div class="footer-inner">
+  <ul class="footer-categories">
+<li><a href="https://www.hotpepper.jp/mesitsu/supported">推奨ブラウザ</a></li>
+   <li><a href="https://cdn.p.recruit.co.jp/terms/hpg-t-1003/index.html">利用規約</a></li>
+   <li><a href="https://help.hotpepper.jp/s/article/000006928" target="_blank">よくある問合せ</a></li>
+   </ul>
+<div class="footer-wrapper">
+      <div class="footer-left">
+        <a href="https://www.recruit.co.jp/" target="_blank">(C) Recruit Co., Ltd.</a>
+        <div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</footer><script type="text/x-hatenablog-carousel" data-carousel-autoscroll="true" data-carousel-autoscroll-interval="5000">html[data-page="index"] .hatena-module-recent-entries.category-Pickup</script><!-- Adobe --><script type="text/javascript">
+channel = "search_result";
+pageName = "hotpepper:mesitsu";
+subSiteSection = "mesitsu";
+media = "hotpepper";
+</script><script type="text/javascript" src="/DEV/DEV_OPEN/CSP/log/js/s_code_diff.js?update=1128"></script><script type="text/javascript" src="/DEV/DEV_OPEN/CSP/log/js/s_code.js?update=1128"></script><script type="text/javascript" src="/DEV/DEV_OPEN/CSP/log/js/logTeam.js?update=1128"></script>
+</div>
+
+
+      </div>
+    </div>
+    
+<script src="https://s.hatena.ne.jp/js/HatenaStar.js?20191001"></script><div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.7";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script><div class="quote-box">
+  <div class="tooltip-quote tooltip-quote-star">
+    <i class="blogicon-star" title="引用スターをつける"></i>
+  </div>
+  <div class="tooltip-quote tooltip-quote-stock">
+    <i class="blogicon-quote" title="引用をストック"></i>
+  </div>
+  <div class="tooltip-quote tooltip-quote-tweet js-tooltip-quote-tweet">
+    <a class="js-tweet-quote" target="_blank" data-track-name="quote-tweet" data-track-once><i class="blogicon-twitter" title="引用してツイートする"></i></a>
+  </div>
+</div>
+
+<div class="message-box" id="quote-star-message-box" style="display: none; position: absolute;">
+  スターをつけました
+</div>
+
+<div class="quote-stock-panel" id="quote-stock-message-box" style="position: absolute; z-index: 3000">
+  <div class="message-box" id="quote-stock-succeeded-message" style="display: none">
+    <p>引用をストックしました</p>
+    <button class="btn btn-primary" id="quote-stock-show-editor-button" data-track-name="curation-quote-edit-button">ストック一覧を見る</button>
+    <button class="btn quote-stock-close-message-button">閉じる</button>
+  </div>
+
+  <div class="message-box" id="quote-login-required-message" style="display: none">
+    <p>引用するにはまずログインしてください</p>
+    <button class="btn btn-primary" id="quote-login-button">ログイン</button>
+    <button class="btn quote-stock-close-message-button">閉じる</button>
+  </div>
+
+  <div class="error-box" id="quote-stock-failed-message" style="display: none">
+    <p>引用をストックできませんでした。再度お試しください</p>
+    <button class="btn quote-stock-close-message-button">閉じる</button>
+  </div>
+
+  <div class="error-box" id="unstockable-quote-message-box" style="display: none; position: absolute; z-index: 3000;">
+    <p>限定公開記事のため引用できません。</p>
+  </div>
+</div>
+
+<script type="x-underscore-template" id="js-requote-button-template">
+  <div class="requote-button js-requote-button">
+    <button class="requote-button-btn tipsy-top" title="引用する"><i class="blogicon-quote"></i></button>
+  </div>
+</script><div id="hidden-subscribe-button" style="display: none;">
+      <div class="hatena-follow-button-box btn-subscribe js-hatena-follow-button-box">
+
+  <a href="#" class="hatena-follow-button js-hatena-follow-button">
+    <span class="subscribing">
+      <span class="foreground">読者です</span>
+      <span class="background">読者をやめる</span>
+    </span>
+    <span class="unsubscribing" data-track-name="profile-widget-subscribe-button" data-track-once>
+      <span class="foreground">読者になる</span>
+      <span class="background">読者になる</span>
+    </span>
+  </a>
+  <div class="subscription-count-box js-subscription-count-box">
+    <i></i>
+    <u></u>
+    <span class="subscription-count js-subscription-count">
+    </span>
+  </div>
+</div>
+
+    </div>
+
+    
+  <script type="text/javascript" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script><script type="text/javascript" src="https://cdn.blog.st-hatena.com/js/external/jquery.min.js?version=1.12.4"></script><script type="text/javascript" src="https://cdn.blog.st-hatena.com/js/external/jquery.flot.js?version=0.8.3"></script><script type="text/javascript" src="https://cdn.blog.st-hatena.com/js/external/jquery.flot.time.js?version=0.8.3"></script><script id="vendor-js" data-env="production" type="text/javascript" src="https://cdn.blog.st-hatena.com/js/vendor.js?version=bb4f6809529271fa6d77a034a495701af99b78cd&amp;env=production" crossorigin="anonymous"></script><script type="text/javascript" src="https://cdn.blog.st-hatena.com/js/texts-ja.js?version=948d4643ee2524f49eee06956cc097db8efb2b09&amp;env=production"></script><script id="hatenablog-js" data-env="production" type="text/javascript" src="https://cdn.blog.st-hatena.com/js/hatenablog.js?version=9cf54cc2fb628db7f390a51fcd383bb403c1660c&amp;env=production" crossorigin="anonymous"></script><script type="text/javascript">Hatena.Diary.GlobalHeader.init()</script><script src="https://www.google.com/recaptcha/api.js" async defer></script>
+</body>
+</html>
